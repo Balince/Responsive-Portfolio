@@ -1,0 +1,95 @@
+body {
+   
+    background-color: whitesmoke;
+}
+
+header {
+
+    
+    background-color: whitesmoke;
+    background-size: 100% 100%;
+    padding: 28px;
+    color: whitesmoke;
+       
+}
+
+
+hr {
+
+    margin: 0;
+    
+}
+
+.innerb{
+    background: whitesmoke;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 28px;    
+}
+
+h1 {
+
+    text-align: center;
+    padding: 28px 28px 28px 28px; 
+    margin: 0px;
+    background: teal;
+    color: whitesmoke;
+    position: absolute;
+    top: 0;
+    left: 400px;
+
+}
+
+h2 {  
+    color: teal;
+    background-color: whitesmoke;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 30px;
+    border-bottom: 10px;
+    border-color: black;
+    
+}
+
+.clicky:hover {
+    color: blue;
+}
+
+.r {
+    color: gray;
+    position: relative;
+    left: 900px;
+    margin: 10px;
+}
+
+.container {
+    background-image: url("https://i.gyazo.com/b868becf670a4d8a7c8d27bf0e17360a.png");
+    padding-top: 20px;
+    padding-bottom: 95px;
+      
+    
+}
+
+p {
+    background: whitesmoke;
+    padding-bottom: 25px;
+    color: gray;
+    
+}
+
+.img {
+    max-width: 50%;
+    max-height: 50%;
+
+}
+
+
+.bot {
+   
+    background: gray;
+    padding-bottom: 5px;
+    padding-top: 25px;
+    text-align: center;
+}
