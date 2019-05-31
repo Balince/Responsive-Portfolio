@@ -5,7 +5,7 @@ body {
 
 header {
 
-    
+    position: static;    
     background-color: whitesmoke;
     background-size: 100% 100%;
     padding: 28px;
@@ -86,3 +86,10 @@ p {
     padding-top: 30px;
     text-align: center;
 }
+@media (min-width: 640px) {} 
+
+
+@media (min-width: 768px) {}
+
+
+@media (min-width: 980px) {} 
